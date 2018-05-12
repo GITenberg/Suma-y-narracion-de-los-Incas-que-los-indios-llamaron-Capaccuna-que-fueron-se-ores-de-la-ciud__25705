@@ -1,0 +1,30 @@
+_repo: Suma-y-narracion-de-los-Incas-que-los-indios-llamaron-Capaccuna-que-fueron-se-ores-de-la-ciud__25705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Betanzos, Juan de
+    alias: Betánzos, Juan de
+    deathdate: 1576
+    gutenberg_agent_id: '31521'
+    url: http://www.gutenberg.org/2009/agents/31521
+description: ''
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25705'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Incas -- History'
+- !lcsh 'Peru -- History -- Conquest, 1522-1548'
+- !lcc 'F3401'
+- !lcsh 'Betanzos, Juan de, -1576'
+- !lcsh 'Indians of South America -- Andes Region -- History'
+title: Suma y narracion de los Incas, que los indios llamaron Capaccuna, que fueron
+  señores de la ciudad del Cuzco y de todo lo á ella subjeto
+url: http://www.gutenberg.org/ebooks/25705
